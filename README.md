@@ -1,2 +1,2 @@
 # node-start-sequelize
- Projeto utilizando Node.js, Handlebars, Sequelize
+ projeto utilizando Node js, Handlebars e Sequelize.
